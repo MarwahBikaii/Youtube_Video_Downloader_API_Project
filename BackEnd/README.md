@@ -72,4 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Youtube APIs are updated , so if you are facing errors with "ytdl-core" , execute in terminal in "BackEnd" folder these 2 lines:
 
 1- npm uninstall ytdl-core
+
+
 2- npm i ytdl-core@npm:@distube/ytdl-core
